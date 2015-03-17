@@ -1,4 +1,4 @@
-# urlParse.js
+# urlparse.js
 a javascript tool to parse url
 
 # Usage
